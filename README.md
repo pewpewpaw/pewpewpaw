@@ -13,7 +13,7 @@
 
 - 📄 Mes experiences : **certification thm, dev (faut pas trop en demander j'ai 16 ans batard)**
 
-- ⚡ Fun fact **miam les pieds**
+- ⚡ Fun fact : **miam les pieds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
