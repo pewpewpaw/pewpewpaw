@@ -11,7 +11,7 @@
 
 - 📫 Comment me contacter ? : **pawpourdevrai sur discord et sur thm : https://tryhackme.com/p/naky**
 
-- 📄 Mes experiences : certification thm, dev (faut pas trop en demander j'ai 16 ans batard)
+- 📄 Mes experiences : **certification thm, dev (faut pas trop en demander j'ai 16 ans batard)**
 
 - ⚡ Fun fact **miam les pieds**
 
