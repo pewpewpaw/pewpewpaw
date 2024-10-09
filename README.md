@@ -1,9 +1,9 @@
 <h1 align="center">paw</h1>
 <h3 align="center">interesser par le code, web et cybersecurité</h3>
 
-- 🔭 Je travaille actuellement sur : **le networking**
+- 🔭 Je travaille actuellement sur : **le networking, projet perso**
 
-- 🌱 J'apprends actuellement : **en profondeur le python**
+- 🌱 J'apprends actuellement : **??**
 
 - 👯 Je cherche a collaborer avec : **mon cerveau**
 
