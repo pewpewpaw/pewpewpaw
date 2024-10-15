@@ -1,5 +1,5 @@
 <h1 align="center">paw</h1>
-<h3 align="center">interesser par le code, web et cybersecurité</h3>
+<h3 align="center">intéressé par le code, web et cybersecurité</h3>
 
 - 🔭 Je travaille actuellement sur : **le networking, projet perso**
 
