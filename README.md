@@ -1,13 +1,13 @@
 <h1 align="center">paw</h1>
-<h3 align="center">intéressé par le code, web et cybersecurité</h3>
+<h3 align="center">intéressé par le code et la cybersecurité</h3>
 
 - 🔭 Je travaille actuellement sur : **le networking, projet perso**
 
-- 🌱 J'apprends actuellement : **??**
+- 🌱 J'apprends actuellement : **le C, C++**
 
 - 👯 Je cherche a collaborer avec : **mon cerveau**
 
-- 💬 Vous pouvez me parler : **d'informatique**
+- 💬 Vous pouvez me parler : **Des otaries en Italie**
 
 - 📫 Comment me contacter ? : **pawpourdevrai sur discord et sur thm : https://tryhackme.com/p/naky**
 
