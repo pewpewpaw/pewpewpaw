@@ -80,5 +80,3 @@ Passionné de programmation et de cybersécurité, je suis un autodidacte de 16 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
