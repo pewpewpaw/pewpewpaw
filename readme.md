@@ -14,8 +14,7 @@ Passionné de programmation et de cybersécurité, je suis un autodidacte de 16 
 
 <br/>  
 
-
-## Rapidfire  
+ 
 <table><tr><td valign="top" width="50%">
 
 -  I’m currently learning Machine learning  
