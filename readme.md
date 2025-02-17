@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est **Paw** !  
 
-🎯 **Âge :** 16 ans | **Classe :** Première | **Passion :** Cybersécurité & Programmation  
+🎯 **Âge :** 17 ans | **Classe :** Première | **Passion :** Cybersécurité & Programmation  
 
 💻 Je suis un jeune passionné de **programmation** et de **cybersécurité**, toujours curieux d’explorer de nouvelles technologies pour résoudre des problèmes complexes et sécuriser les systèmes.  
 Je combine mes compétences en **C++**, **Python**, et **Linux** pour développer des outils sur mesure et approfondir mes connaissances en sécurité informatique. 🚀  
