@@ -20,7 +20,7 @@ Je combine mes compétences en **C++**, **Python**, et **Linux** pour développe
 
 ## 🌟 **Compétences et centres d’intérêt**  
 - **Langages principaux :**  
-  - C++, Python, Bash, C  
+  - Python, Bash, C  
 - **Expertise :**  
   - Analyse de vulnérabilités 🛡️  
   - Tests de pénétration 🔓  
